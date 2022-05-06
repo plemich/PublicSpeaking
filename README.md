@@ -1,2 +1,2 @@
 # PublicSpeaking
-Slides of public speaking sessions
+Slides of my public speaking sessions
