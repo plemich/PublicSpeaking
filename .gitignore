@@ -2,6 +2,8 @@
 .DS_Store
 *.DS_Store
 **/.DS_Store
+DS_Store
+**/DS_Store
 
 # Git temporary and lock files
 *.lock
