@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+*.DS_Store
+**/.DS_Store
+DS_Store
+**/DS_Store
+
+# Git temporary and lock files
+*.lock
+
+# Temporary files
+*~
+*.swp
+*.swo
+.*.swp
+.*.swo
